@@ -1,5 +1,5 @@
 ## web_testing
-В качестве вебсайта для тестирования был выбран https://edostavka.by/. В процессе была создана следующая документация:
+В качестве веб-сайта для тестирования был выбран https://edostavka.by/. В процессе была создана следующая документация:
 <ul>
 <li><a href = "https://github.com/Nomasqwe/web_testing/blob/main/Mind-map.pdf">Структура сайта</a></li>
 <li><a href = "https://github.com/Nomasqwe/web_testing/blob/main/Test-plan.pdf">Тест-план</a>, содержащий описание того, что и как тестировать (функции, виды тестирования, инструменты), основные этапы работы, риски.</li>
